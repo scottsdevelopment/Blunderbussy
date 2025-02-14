@@ -1,0 +1,7 @@
+## Interface: 90005
+## Title: Blunderbuss
+## Notes: Auction house undercutter
+## Author: Odell Scott
+## Version: 1.0
+## SavedVariables: BlunderbussDB
+Blunderbuss.lua
